@@ -1,0 +1,57 @@
+body{
+    background-color:darkslategrey ;
+}
+.grade{
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    margin-left: 38vw;
+    margin-top: 30vh;
+
+  
+}
+figcaption{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    height: 35px;
+}
+.Input{
+     margin-left: 28px;
+     width: 25vw;
+     height: 35px;
+     font-size: large;
+     font-weight: bolder;
+}
+.eachItem{
+    display: flex;
+    margin-left: 1.5vw;
+    width: 25vw;
+    background-color: aquamarine;
+    margin-top: 8px;
+    border-radius: 8px;
+}
+h3{
+    width: 25vw;
+    font-size: 22px;
+    font-weight: 500;
+    padding-left: 10px;
+}
+.add-btn2{
+    margin-top: 3.5vh;
+    padding-right: 3px;
+}
+.show{
+    margin-left: 13vw;
+;
+}
+.DEleteAll{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-weight: bolder;
+    margin-top: 5px;
+    cursor: pointer;
+}
+.DEleteAll:hover {
+       background-color: rgb(3, 85, 21);
+}
